@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c711af7-7bb3-4331-a54c-58c4555b1193" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Chat.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rik1Z9DfB5Dg6aLeQqFS6sDAF5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="emulator" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c711af7-7bb3-4331-a54c-58c4555b1193" name="Default Changelist" comment="" />
+      <created>1619466083590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619466083590</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="25" key="SettingsEditor" timestamp="1619466225211">
+      <screen x="0" y="25" width="1280" height="719" />
+    </state>
+    <state x="141" y="25" key="SettingsEditor/0.25.1280.719/1280.25.1920.1055@0.25.1280.719" timestamp="1619466225211" />
+    <state x="305" y="68" key="search.everywhere.popup" timestamp="1619466158039">
+      <screen x="0" y="25" width="1280" height="719" />
+    </state>
+    <state x="305" y="68" key="search.everywhere.popup/0.25.1280.719/1280.25.1920.1055@0.25.1280.719" timestamp="1619466158039" />
+  </component>
+</project>
