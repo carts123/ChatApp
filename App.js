@@ -14,7 +14,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 // Create the navigator
 const Stack = createStackNavigator();
 
-export class App extends Component {
+export default class App extends Component {
   render() {
     return (
       <NavigationContainer>

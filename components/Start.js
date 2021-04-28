@@ -1,5 +1,5 @@
 import React from 'react';
-import { ImageBackground, KeyboardAvoidingView, StyleSheet, Text, View } from 'react-native';
+import { ImageBackground, KeyboardAvoidingView, StyleSheet, Text, View, Platform } from 'react-native';
 import { TextInput, TouchableOpacity } from 'react-native-gesture-handler';
 
 export default class Start extends React.Component {
