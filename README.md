@@ -1,4 +1,4 @@
-# **chat-app**
+# **Chat-App**
 This is a native app for mobile devices that allows users to chat and share their images and locations.
 
 # Features
