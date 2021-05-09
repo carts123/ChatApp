@@ -125,7 +125,7 @@ export default class Chat extends React.Component {
           name: data.user.name,
           //avatar: data.user.avatar,
         },
-        image: data.user || '',
+        image: data.image || '',
         location: data.location || null
       });
     });
